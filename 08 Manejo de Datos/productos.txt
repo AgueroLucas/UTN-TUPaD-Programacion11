@@ -1,0 +1,8 @@
+Lapicera,120.5,30
+Cuaderno,250.0,15
+Borrador,50.0,50
+Mochila,2400.0,4
+Compaz,1200.0,2
+Regla,500.0,29
+Escuadra,300.0,34
+Cartuchera,400.0,10
